@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+	<editComponent
+		id="org.eclipse.wb.swing.containers javax.swing.JPanel"
+		name="JPanel"
+		visible="true"
+		class="javax.swing.JPanel"/>
+</commands>
